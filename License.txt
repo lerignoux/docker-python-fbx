@@ -1,0 +1,1397 @@
+Autodesk
+LICENSE AND SERVICES AGREEMENT
+Autodesk� FBX� Python SDK 2019
+
+READ CAREFULLY:  AUTODESK LICENSES THE SOFTWARE
+AND OTHER LICENSED MATERIALS ONLY ON THE CONDITION THAT LICENSEE ACCEPTS ALL OF
+THE TERMS CONTAINED OR REFERENCED IN THIS AGREEMENT.
+By selecting the �I accept�
+ button or other button or mechanism designed to acknowledge agreement to the te
+rms of an electronic copy of this Agreement, or by installing, downloading, acce
+ssing, or otherwise copying or using all or any portion of the Autodesk Material
+s, (i) you accept this Agreement on behalf of the entity for which you are autho
+rized to act (e.g., an employer) and acknowledge that such entity is legally bou
+nd by this Agreement (and you agree to act in a manner consistent with this Agre
+ement) or, if there is no such entity for which you are authorized to act, you a
+ccept this Agreement on behalf of yourself as an individual and acknowledge that
+ you are legally bound by this Agreement, and (ii) you represent and warrant tha
+t you have the right, power and authority to act on behalf of and bind such enti
+ty (if any) or yourself.  You may not accept this Agreement on behalf of another
+ entity unless you are an employee or other agent of such other entity with the
+right, power and authority to act on behalf of such other entity.
+If Licensee is
+ unwilling to accept this Agreement, or you do not have the right, power and aut
+hority to act on behalf of and bind such entity or yourself as an individual (if
+ there is no such entity), (a) DO NOT SELECT THE �I ACCEPT� BUTTON OR OTHERWISE
+CLICK ON ANY BUTTON OR OTHER MECHANISM DESIGNED TO ACKNOWLEDGE AGREEMENT, AND DO
+ NOT INSTALL, DOWNLOAD, ACCESS, OR OTHERWISE COPY OR USE ALL OR ANY PORTION OF T
+HE AUTODESK MATERIALS; AND (b) WITHIN THIRTY (30) DAYS FROM THE DATE OF ACQUIRIN
+G THE AUTODESK MATERIALS, LICENSEE MAY RETURN THE AUTODESK MATERIALS (INCLUDING
+ANY COPIES) TO THE ENTITY FROM WHICH THEY WERE ACQUIRED FOR A REFUND OF THE APPL
+ICABLE LICENSE FEES PAID BY THE LICENSEE.
+The words �Autodesk", �Agreement� an
+d �Licensee� and other capitalized terms used in this Agreement are defined term
+s.  The definitions can be found in Exhibit A (if the terms are not defined in t
+he main body of the Agreement).
+1.	License
+1.1	License Grant.  Subject to and co
+nditioned on Licensee�s continuous compliance with this Agreement, Autodesk gran
+ts Licensee a nonexclusive, nonsublicensable, nontransferable, limited license t
+o Install and Access the Licensed SDK and User Documentation, in each case solel
+y (a) in the Territory, (b) within the scope of the License Type and Permitted N
+umber specified in the applicable License Identification, and (c) in accordance
+with the other terms of this Agreement, to:
+1.1.1������ (a)����use the SDK for d
+evelopment, research, internal, educational, or commercial purposes:
+
+     (i) to create a software product with the capability to read and/or write a
+nd/or translate Licensee files, which software product links to the Library (�De
+veloped Software�); and/or
+                (ii) to modify the Sample Code(s) sol
+ely to create an object code version(s) (�Modified Code(s)�); and/or
+        (b)
+�����reproduce the Library to link to the Developed Software.
+1.1.2������(a)����
+�incorporate the executable version of the Developed Software into; and/or
+
+   (b)�����incorporate the Modified Code(s) into; and/or
+        (c)�����link th
+e Library, in binary code form to;
+software products developed by Licensee (�Lic
+ensee Product(s)�) for Licensee�s Internal Business Needs.
+        1.1.3���repro
+duce, distribute and sublicense free of charge or for a fee Licensee Product(s)
+provided that Licensee must sublicense the Software, the Developed Software, the
+ Library, the Sample Code(s) and the Modified Code(s) �as is�, without warranty
+of any kind.
+Various License Types are described in Exhibit B.  In any case wher
+e the License Identification does not specify a License Type or Permitted Number
+ or Territory, or there is no License Identification, the License Type will, by
+default, be the Stand-alone (Individual) License and the Territory will be world
+wide, subject to the Export Control requirements herein.
+        1.1.4������ Lic
+ensee shall reproduce and apply any copyright or other proprietary rights notice
+s included on or embedded in the Software, or any part thereof, to any copies of
+ the Software or any part thereof, or to the Developed Software, in any form.
+
+      1.1.5������ Licensee shall place the following statement in the copyright
+area of either: (i) the end-user License and/or terms of use for the Developed S
+oftware; or (ii) the �About Box� or similar notice page of the Developed Softwar
+e; and Licensee shall also include the following statement in the copyright area
+ of either: (a) the on-line documentation regarding the Developed Software; or (
+b) any other document related to Developed Software that contains copyright info
+rmation:
+�This software contains Autodesk� FBX� code developed by Autodesk, Inc.
+ Copyright 2018 Autodesk, Inc. All rights, reserved. Such code is provided �as i
+s� and Autodesk, Inc. disclaims any and all warranties, whether express or impli
+ed, including without limitation the implied warranties of merchantability, fitn
+ess for a particular purpose or non-infringement of third party rights. In no ev
+ent shall Autodesk, Inc. be liable for any direct, indirect, incidental, special
+, exemplary, or consequential damages (including, but not limited to, procuremen
+t of substitute goods or services; loss of use, data, or profits; or business in
+terruption) however caused and on any theory of liability, whether in contract,
+strict liability, or tort (including negligence or otherwise) arising in any way
+ out of such code.�
+1.2	Upgrades and Previous Versions.
+        1.2.1	Effect o
+f Upgrades.  If Autodesk or a Reseller provides Licensee with an Upgrade to othe
+r Licensed Materials previously licensed to Licensee, the Licensed Materials pre
+viously licensed to Licensee and any other Autodesk Materials relating thereto w
+ill thereafter be deemed to be a �Previous Version.�  Except as set forth in Sec
+tion 1.2.2 (Exception for Relationship Program Licensees), the license grant and
+ other rights with respect to any Previous Version will terminate one hundred tw
+enty (120) days after Installation of the Upgrade.  Within such one hundred twen
+ty (120) day period, except as set forth in Section 1.2.2 (Exception for Relatio
+nship Program Licensees), (a) Licensee must cease all use of any Previous Versio
+n and Uninstall all copies of the Previous Version, and (b) upon expiration of s
+uch period, such Previous Version will no longer constitute Licensed Materials b
+ut rather will be deemed to be Excluded Materials and Licensee will no longer ha
+ve a license for any such Previous Version.  At Autodesk�s request, Licensee agr
+ees to destroy or return to Autodesk or the Reseller from which they were acquir
+ed all copies of the Previous Version.  Autodesk reserves the right to require L
+icensee to show satisfactory proof that all copies of any Previous Version have
+been Uninstalled and, if so requested by Autodesk, destroyed or returned to Auto
+desk or the Reseller from which they were acquired.
+        1.2.2	Exception for
+Relationship Program Licensees.  The termination of rights as to Previous Versio
+ns described in Section 1.2.1 (Effect of Upgrades) may not apply to Licensee if
+and to the extent (a) Licensee participates in a Relationship Program and the Re
+lationship Program Terms authorize Licensee to retain such Previous Versions or
+(b) otherwise authorized in writing by Autodesk.
+1.3	Additional Terms.  The Lice
+nsed Materials (or portions thereof) may be subject to terms (e.g., terms accomp
+anying such Licensed Materials or made available in connection with ordering, in
+stalling, downloading, accessing, using or copying such Licensed Materials) that
+ are in addition to or different from the terms set forth in this Agreement, and
+ Licensee agrees to comply with such terms.
+1.4	Other Materials.  If Autodesk pr
+ovides or makes available to Licensee any additional materials associated with t
+he Licensed Materials, including any corrections, patches, service packs, update
+s or upgrades to, or new versions of, the Licensed Materials (including Upgrades
+) or any Supplemental Materials or User Documentation for the Licensed Materials
+, (a) such additional materials may include or be subject to other terms in addi
+tion to or different from the terms set forth in this Agreement (including, with
+out limitation, additional or different fees, license terms, or restrictions on
+use), and Licensee agrees to comply with such terms, or (b) if there are no othe
+r terms for such additional materials, they will (except as otherwise provided b
+y Section 1.2 (Upgrades and Previous Versions)) be subject to the same terms (in
+cluding, without limitation, the licenses, applicable License Type and Permitted
+ Number, and other terms of this Agreement) as the Licensed Materials to which s
+uch additional materials apply.  In no event will the foregoing result in any ri
+ghts with respect to Excluded Materials.
+1.5	Authorized Users.  Licensee may per
+mit the Licensed Materials to be Installed and/or Accessed only by Licensee�s Pe
+rsonnel (except as otherwise designated in the applicable License Type), and any
+ such Installation or Access will be subject to any other requirements imposed b
+y this Agreement and the applicable License Type and Permitted Number.  Licensee
+ will be responsible for compliance with this Agreement by Licensee�s Personnel
+and any other persons who may have Access to the Autodesk Materials through Lice
+nsee (whether or not such Access is authorized by Autodesk or within the scope o
+f the applicable License Type and Permitted Number).
+1.6	Third-Party Licensed Ma
+terials.  The Autodesk Materials may contain or be accompanied by third-party so
+ftware, data or other materials that are subject to and provided in accordance w
+ith terms that are in addition to or different from the terms set forth in this
+Agreement.  Such terms may be included or referenced in or with such third-party
+ software, data or other materials (e.g., in the �About box�) or a web page spec
+ified by Autodesk (the URL for which may be obtained on Autodesk�s website or on
+ request to Autodesk).  Licensee agrees to comply with such terms.  In addition,
+ Licensee will take sole responsibility for obtaining and complying with any lic
+enses that may be necessary to use third-party software, data or other materials
+ that Licensee uses or obtains for use in conjunction with the Licensed Material
+s.  Licensee acknowledges and agrees that Autodesk has no responsibility for, an
+d makes no representations or warranties regarding, such third-party software, d
+ata or other materials or Licensee�s use of such third-party software, data or o
+ther materials.
+1.7	Relationship Programs.  Autodesk may offer to Licensee, and
+(if so) Licensee may participate in one (1) or more Relationship Programs applic
+able to the Licensed Materials licensed to Licensee under this Agreement (and su
+ch Relationship Programs may include rights in addition to or different from tho
+se set forth in this Agreement).  Any Relationship Programs are subject to Autod
+esk�s terms therefor, which terms are set forth in the applicable Relationship P
+rogram Terms.  Licensee agrees that if it requests, accepts, or makes use of any
+ Relationship Program, Licensee will be bound by such terms, as they may be modi
+fied from time to time in accordance with the applicable Relationship Program Te
+rms (and such terms, as so modified from time to time, are a part of and incorpo
+rated by reference into this Agreement), and Licensee agrees to comply with such
+ terms.  Licensee acknowledges that Autodesk may require a further acceptance of
+ such terms as a condition to participation in a Relationship Program.
+1.8	Servi
+ces.  Autodesk may provide, and Licensee may elect to receive or benefit from, c
+ertain Services from time to time.  Any Services are subject to Autodesk�s terms
+ therefor, which terms are set forth in the applicable Services Terms.  Licensee
+ agrees that if it requests, accepts, or makes use of any Services, Licensee wil
+l be bound by such terms, as they may be modified from time to time in accordanc
+e with the applicable Services Terms (and such terms, as so modified from time t
+o time, are a part of and incorporated by reference into this Agreement), and Li
+censee agrees to comply with such terms.  Licensee acknowledges that Autodesk ma
+y require a further acceptance of such terms as a condition to providing Service
+s.
+1.9	Archival Copy.  Licensee�s license under Section 1.1 (License Grant) incl
+udes the right to make a single archival copy of the Licensed Materials in the T
+erritory, provided that (a) the single-copy limitation will not apply to copies
+made as an incidental part of a routine backup of Licensee�s entire computer sys
+tem on which the Licensed Materials are Installed in accordance with this Agreem
+ent, where such backup includes the making of copies of substantially all other
+software on such computer system and (b) any archival copy may be Accessed or In
+stalled (other than on a backup storage medium from which the Licensed Materials
+ cannot be Accessed) only when and for so long as the primary copy of the Licens
+ed Materials is inaccessible and inoperable.  Copies of the Licensed Materials t
+hat are Installed and are in excess of the Permitted Number at any time while th
+e primary copy of the Licensed Materials is also Accessible are not "archival co
+pies" as permitted under this Section 1.9 (Archival Copy).
+1.10	Nature of Licens
+es.  Licensee acknowledges and agrees that when Licensee acquires a license of L
+icensed Materials, (including through a Relationship Program or Services), Licen
+see�s acquisition is neither contingent on the delivery of any future features o
+r functionality nor subject to any public or other comments (oral, written or ot
+herwise) made by Autodesk regarding future features or functionality.
+1.11	Feedb
+ack.
+Licensee hereby grants Autodesk, under all of Licensee�s intellectual prope
+rty and proprietary rights, the following worldwide, exclusive, transferable, pe
+rpetual, irrevocable, royalty-free, fully paid-up rights: (1) to make, have made
+, use, copy, modify, and create derivative works of the Feedback as part of or i
+n connection with any Autodesk product, technology, service, content, material,
+specification or documentation (including without limitation in connection with
+the marketing or sale thereof); (2) to publicly perform or display, import, broa
+dcast, transmit, distribute, license, offer to sell and sell, rent, lease or len
+d copies of the Feedback (and derivative works thereof and improvements thereon)
+; and (3) to sublicense to third parties the foregoing rights, including the rig
+ht to sublicense to further third parties.  �Feedback� shall mean all suggestion
+s, comments, input, ideas, reports, information or know-how (whether in oral or
+written form) provided by Licensee to Autodesk or an Autodesk affiliate in conne
+ction with Licensee�s evaluation of or use of the Licensed Materials.  Feedback
+does not include any artwork or sample content created by Licensee using the Lic
+ensed Materials.
+2.	License Limitations; Prohibitions
+2.1	Limitations and Exclus
+ions.
+        2.1.1	No License Granted; Unauthorized Activities.  The parties ac
+knowledge and agree that, notwithstanding anything to the contrary in this Agree
+ment, no license is granted (whether expressly, by implication or otherwise) und
+er this Agreement (and this Agreement expressly excludes any right) (a) to Exclu
+ded Materials, (b) to any Autodesk Materials that Licensee did not acquire lawfu
+lly or that Licensee acquired in violation of or in a manner inconsistent with t
+his Agreement, (c) for Installation of or Access to the Licensed Materials beyon
+d the applicable license term (whether a fixed term or Relationship Program peri
+od or term) or outside the scope of the applicable License Type or Permitted Num
+ber, (d) for Installation of the Licensed Materials on any Computer other than a
+ Computer owned or leased, and controlled, by Licensee, unless otherwise authori
+zed in writing by Autodesk, (e) to distribute, rent, loan, lease, sell, sublicen
+se, transfer or otherwise provide all or any portion of the Autodesk Materials t
+o any person or entity except as expressly set forth in this Agreement or as exp
+ressly authorized in writing by Autodesk, (f) to provide or make available any f
+eatures or functionality of the Autodesk Materials to any person or entity (othe
+r than to and for Licensee itself for the purpose specified in the applicable Li
+cense Type), whether or not over a network and whether or not on a hosted basis,
+ (g) except as otherwise expressly provided with respect to a specific License T
+ype, to Install or Access or allow the Installation of or Access to the Autodesk
+ Materials over the Internet or other non-local network, including, without limi
+tation, use in connection with a wide area network (WAN), virtual private networ
+k (VPN), virtualization, Web hosting, time-sharing, service bureau, software as
+a service, cloud or other service or technology, (h) to remove, alter or obscure
+ any proprietary notices, labels or marks in the Autodesk Materials, (i) to deco
+mpile, disassemble or otherwise reverse engineer the Autodesk Materials, or (j)
+to translate, adapt, arrange, or create derivative works based on, or otherwise
+modify the Autodesk Materials for any purpose.
+        2.1.2	Licensed Materials
+as a Single Product.  The Licensed Materials are licensed to Licensee as a singl
+e product and the applicable components may not be separated for Installation or
+ Access (and all such components must be Installed and Accessed on the same Comp
+uter except as authorized in writing by Autodesk).
+        2.1.3	Territory.  Exc
+ept as otherwise authorized in writing by Autodesk, the licenses granted in this
+ Agreement are granted only for the Territory.  Nothing in this Agreement permit
+s Licensee (including, without limitation, Licensee�s Personnel, if any) to Inst
+all or Access the Licensed Materials outside of the Territory.
+        2.1.4	Eff
+ect of Unauthorized Use.  Licensee will not engage in, and will not permit or as
+sist any third party to engage in any of the uses or activities prohibited (or a
+ny uses or activities inconsistent with the limitations described) in this Secti
+on 2.1 (Limitations and Exclusions) (collectively, �Unauthorized Uses�).  Any su
+ch Unauthorized Use, and any Installation of or Access to the Licensed Materials
+ provided under this Agreement, outside of the scope of the applicable license g
+rants (including, without limitation, outside the applicable License Type and/or
+ Permitted Number) or otherwise not in accordance with this Agreement, constitut
+e or result in infringement of Autodesk�s intellectual property rights as well a
+s a breach of this Agreement.  Licensee will notify Autodesk promptly of any suc
+h Unauthorized Uses or other unauthorized Installation or Access.
+        2.1.5
+Use of Open Source Software by Licensee.� If Licensee uses any third party softw
+are (including free or Open Source Software), whether or not in conjunction with
+ the Software, Licensee shall ensure that its use does not: (i) create, or purpo
+rt to create, obligations of Autodesk or any of its affiliates with respect to t
+he Software; (ii) grant, or purport to grant, to any third party any rights to o
+r immunities under Autodesk�s or any of its affiliates intellectual property rig
+hts; or (iii) cause the Software to be subject to any licensing terms other than
+ those set forth in this Agreement.
+2.2	Circumvention.
+        2.2.1	Licensee
+may not (i) utilize any equipment, device, software, or other means to (or desig
+ned to) circumvent or remove any form of technical protection used by Autodesk i
+n connection with the Autodesk Materials, or (ii) Install or Access the Autodesk
+ Materials with any product code, authorization code, serial number, or other co
+py-protection device not supplied by Autodesk directly or through a Reseller.  W
+ithout limitation of the generality of the foregoing, Licensee may not utilize a
+ny equipment, device, software, or other means to (or designed to) circumvent or
+ remove the Autodesk License Manager or any tool or technical protection measure
+ provided or made available by Autodesk for managing, monitoring or controlling
+Installation of or Access to Autodesk Materials.
+        2.2.2	Licensee may not
+utilize any equipment, device, software, or other means to (or designed to) circ
+umvent or remove any usage restrictions, or to enable functionality disabled by
+Autodesk, in connection with the Excluded Materials.  Licensee may not bypass or
+ delete any functionality or technical limitations of the Autodesk Materials tha
+t (or that are designed to) prevent or inhibit the unauthorized copying of, Inst
+allation or Access to the Excluded Materials.
+3.	All Rights Reserved
+Autodesk an
+d its licensors retain title to and ownership of, and all other rights with resp
+ect to, the Autodesk Materials and all copies thereof, including, without limita
+tion, any related copyrights, trademarks, trade secrets, patents, and other inte
+llectual property rights.  Licensee has only the limited licenses granted with r
+espect to the Licensed Materials expressly set forth in this Agreement, and Lice
+nsee has no other rights, implied or otherwise.  Licensee acknowledges and agree
+s that the Autodesk Materials are licensed, not sold, and that rights to Install
+ and Access the Licensed Materials are acquired only under the license from Auto
+desk.  The structure and organization of Software included in the Autodesk Mater
+ials, any source code or similar materials relating to such Software, any API In
+formation and Development Materials (both as described in Section 1.11 (APIs)),
+and any other Licensed Materials identified as confidential or proprietary are v
+aluable trade secrets of, and confidential and proprietary information of, Autod
+esk and its suppliers, and (a) may not be distributed, disclosed or otherwise pr
+ovided to third parties, and (b) may be used only internally and only in conjunc
+tion with and for Licensee�s own authorized internal use of the Licensed Materia
+ls.
+4.	Privacy; Use of Information; Connectivity
+4.1	Privacy and Use of Inform
+ation.  Licensee acknowledges and agrees that Licensee (and third parties acting
+ on Licensee�s behalf) may provide, and Autodesk and its Resellers (and third pa
+rties acting on behalf of Autodesk and its Resellers) may obtain, certain inform
+ation and data with respect to Licensee (including, without limitation, personal
+ information) and Licensee�s business in connection with this Agreement, includi
+ng, without limitation, information and data provided to or obtained by Autodesk
+ and its Resellers (or third parties acting on behalf of Autodesk and its Resell
+ers) through the Customer Information Form and otherwise, in connection with ord
+ering, registration, activation, updating, validating entitlement to, auditing,
+monitoring Installation of and Access to Autodesk Materials, Relationship Progra
+ms and Services and managing the relationship with Licensee.  Licensee hereby co
+nsents to Autodesk maintaining, using, storing and disclosing such information a
+nd data (including, without limitation, personal information, if any) in conform
+ity with Autodesk�s policies on privacy and data protection, as such policies ma
+y be updated from time to time, including without limitation Autodesk�s Privacy
+Statement, as currently located at http://usa.autodesk.com/privacy/.  Without li
+mitation of the generality of the foregoing, Licensee acknowledges and agrees th
+at: (a) Autodesk may from time to time prompt Licensee (and third parties acting
+ on Licensee�s behalf) to provide express agreement to the terms of Autodesk�s P
+rivacy Statement and/or express agreement to specific uses of information and da
+ta (including, without limitation, personal information); (b) Autodesk may provi
+de information and data, including, without limitation, information and data abo
+ut Licensee�s use of Autodesk Materials, Relationship Programs, and Licensee�s s
+upport requests, to Autodesk subsidiaries and affiliates, Resellers and other th
+ird parties in connection with the provision, maintenance, administration or usa
+ge of Licensed Materials, Relationship Programs or Services or in connection wit
+h enforcement of any agreements relating to Licensed Materials, Relationship Pro
+grams or Services; and (c) Autodesk may make cross-border transfers of such info
+rmation and data, including to jurisdictions with privacy or data protection law
+s that are less protective of Licensee than the jurisdiction in which Licensee i
+s domiciled.  Licensee acknowledges and agrees that such policies may be changed
+ from time to time by Autodesk and that, effective upon posting on Autodesk�s we
+bsite or other written notice from Autodesk, Licensee will be subject to such ch
+anges.
+4.2	Connectivity.  Certain Licensed Materials may facilitate or require
+ Licensee�s access to and use of content and services that are hosted on website
+s maintained by Autodesk or by third parties.  In some cases, such content and s
+ervices may appear to be a feature or function within, or extension of, the Lice
+nsed Materials on Licensee�s Computer even though hosted on such websites.  Acce
+ssing such content or services and use of Licensed Materials may cause Licensee�
+s Computer, without additional notice, to connect automatically to the Internet
+(transitorily, intermittently or on a regular basis) and to communicate with an
+Autodesk or third-party website�for example, for purposes of providing Licensee
+with additional information, features and functionality or to validate that the
+Licensed Materials and/or content or services are being used as permitted under
+this Agreement or other applicable terms.  Such connectivity to Autodesk website
+s is governed by Autodesk�s policies on privacy and data protection described in
+ this Section 4 (Privacy; Use of Information; Connectivity).  Such connectivity
+to websites of third parties is governed by the terms (including the disclaimers
+ and notices) found on such sites or otherwise associated with the third-party c
+ontent or services.  Autodesk does not control, endorse, or accept responsibilit
+y for any such third-party content or services, and any dealings between License
+e and any third party in connection with such content or services, including, wi
+thout limitation, such third party�s privacy policies, use of personal informati
+on, delivery of and payment for goods and services, and any other terms associat
+ed with such dealings, are solely between Licensee and such third party.  Autode
+sk may at any time, for any reason, modify or discontinue the availability of an
+y third-party content or services. Access to and use of certain content and serv
+ices (whether of Autodesk or third parties) may require assent to separate terms
+ and/or payment of additional fees.
+5.	Limited Warranty and Disclaimers
+5.1	Lim
+ited Warranty.  Autodesk warrants that, as of the date on which the Licensed Mat
+erials are delivered to Licensee and for ninety (90) days thereafter or if the l
+icense term is shorter, such shorter period (�Warranty Period�), the Licensed Ma
+terials will provide the general features and functions described in the User Do
+cumentation portion of the Licensed Materials.  Autodesk's entire liability and
+Licensee�s exclusive remedy during the Warranty Period (�Limited Warranty�) will
+ be, with the exception of any statutory warranty or remedy that cannot be exclu
+ded or limited under law, at Autodesk's option, (i) to attempt to correct or wor
+k around errors, if any, or (ii) to refund the license fees, if any, paid by Lic
+ensee and terminate this Agreement or the license specific to such Licensed Mate
+rials.  Such refund is subject to the return, during the Warranty Period, of the
+ Autodesk Materials, with a copy of Licensee�s License Identification, to Licens
+ee�s local Autodesk office or the Reseller from which Licensee acquired the Auto
+desk Materials.  THE LIMITED WARRANTY SET FORTH IN THIS SECTION GIVES LICENSEE S
+PECIFIC LEGAL RIGHTS.  LICENSEE MAY HAVE ADDITIONAL LEGAL RIGHTS UNDER LAW WHICH
+ VARY FROM JURISDICTION TO JURISDICTION.  AUTODESK DOES NOT SEEK TO LIMIT LICENS
+EE�S WARRANTY RIGHTS TO ANY EXTENT NOT PERMITTED BY LAW.
+5.2	Disclaimer.  EXCEPT
+ FOR THE EXPRESS LIMITED WARRANTY PROVIDED IN SECTION 5.1 (LIMITED WARRANTY), AN
+D TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AUTODESK AND ITS SUPPLIERS
+MAKE, AND LICENSEE RECEIVES, NO WARRANTIES, REPRESENTATIONS, OR CONDITIONS OF AN
+Y KIND, EXPRESS OR IMPLIED (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIE
+S OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT, OR W
+ARRANTIES OTHERWISE IMPLIED BY STATUTE OR FROM A COURSE OF DEALING OR USAGE OF T
+RADE) WITH RESPECT TO ANY AUTODESK MATERIALS, RELATIONSHIP PROGRAMS, OR SERVICES
+ (PURSUANT TO A RELATIONSHIP PROGRAM OR OTHERWISE).  ANY STATEMENTS OR REPRESENT
+ATIONS ABOUT THE AUTODESK MATERIALS, RELATIONSHIP PROGRAMS OR SERVICES AND THEIR
+ FEATURES OR FUNCTIONALITY IN THE LICENSED MATERIALS OR ANY COMMUNICATION WITH L
+ICENSEE ARE FOR INFORMATION PURPOSES ONLY, AND DO NOT CONSTITUTE A WARRANTY, REP
+RESENTATION, OR CONDITION.  WITHOUT LIMITING THE FOREGOING, AUTODESK DOES NOT WA
+RRANT:  (a) THAT THE OPERATION OR OUTPUT OF THE LICENSED MATERIALS OR SERVICES W
+ILL BE UNINTERRUPTED, ERROR-FREE, SECURE, ACCURATE, RELIABLE, OR COMPLETE, WHETH
+ER OR NOT UNDER A RELATIONSHIP PROGRAM OR SUPPORT BY AUTODESK OR ANY THIRD PARTY
+; (b) THAT ERRORS WILL BE CORRECTED BY AUTODESK OR ANY THIRD PARTY; OR (c) THAT
+AUTODESK OR ANY THIRD PARTY WILL RESOLVE ANY PARTICULAR SUPPORT REQUEST OR THAT
+SUCH RESOLUTION WILL MEET LICENSEE�S REQUIREMENTS OR EXPECTATIONS.  NOTHING IN T
+HE FOREGOING RESTRICTS THE EFFECT OF WARRANTIES OR CONDITIONS WHICH MAY BE IMPLI
+ED BY LAW WHICH CANNOT BE EXCLUDED, RESTRICTED OR MODIFIED NOTWITHSTANDING A CON
+TRACTUAL RESTRICTION TO THE CONTRARY. WITHOUT LIMITING THE FOREGOING, AUTODESK A
+ND ITS SUPPLIERS MAKE, AND LICENSEE RECEIVES, NO WARRANTIES THAT: (I) FUTURE VER
+SIONS OF THE SDK, LIBRARY AND/OR SAMPLE CODE(S), IF ANY, WILL CONTAIN FEATURES S
+IMILAR TO OR THE SAME AS THE SDK, LIBRARY AND/OR SAMPLE CODE(S), RESPECTIVELY OR
+ WILL BE COMPATIBLE WITH THE SDK, LIBRARY AND/OR SAMPLE CODE(S), RESPECTIVELY; (
+II) THE SOFTWARE OR THE SDK, LIBRARY AND/OR SAMPLE CODE(S) WILL MEET LICENSEE RE
+QUIREMENTS; OR (III) OPERATION OF THE SDK, LIBRARY OR SAMPLE CODE(S) WILL BE UNI
+NTERRUPTED OR ERROR-FREE.
+6.	Warnings
+6.1	Functionality Limitations.  The Licens
+ed Materials and Services (except for Licensed Materials designed for non-commer
+cial use, such as Autodesk Materials designed to be used for household or other
+consumer purposes or licensed only for purposes of educational or individual lea
+rning) are commercial professional tools intended to be used by trained professi
+onals only.  Particularly in the case of commercial professional use, the Licens
+ed Materials and Services are not a substitute for Licensee�s professional judgm
+ent or independent testing.  The Licensed Materials and Services are intended on
+ly to assist Licensee with its design, analysis, simulation, estimation, testing
+ and/or other activities and are not a substitute for Licensee�s own independent
+ design, analysis, simulation, estimation, testing, and/or other activities, inc
+luding those with respect to product stress, safety and utility.  Due to the lar
+ge variety of potential applications for the Licensed Materials and Services, th
+e Licensed Materials and Services have not been tested in all situations under w
+hich they may be used.  Autodesk will not be liable in any manner whatsoever for
+ the results obtained through use of the Licensed Materials or Services.  Person
+s using the Licensed Materials or Services are responsible for the supervision,
+management, and control of the Licensed Materials and Services and the results o
+f using the Licensed Materials and Services.  This responsibility includes, with
+out limitation, the determination of appropriate uses for the Licensed Materials
+ and Services and the selection of the Licensed Materials, Services and other co
+mputer programs and materials to help achieve intended results.  Persons using t
+he Licensed Materials or Services are also responsible for establishing the adeq
+uacy of independent procedures for testing the reliability, accuracy, completene
+ss, and other characteristics of any output of the Licensed Materials or Service
+s, including, without limitation, all items designed with the assistance of the
+Licensed Materials or Services.  Licensee further acknowledges and agrees that t
+he Licensed Materials form part of Licensee�s total unique hardware and software
+ environment to deliver specific functionality, and that the Licensed Materials
+and Services provided by Autodesk may not achieve the results Licensee desires w
+ithin Licensee�s design, analysis, simulation, estimation, and/or testing constr
+aints.
+6.2	Activation Codes and Security.
+6.2.1	Activation Code Required for Ins
+tallation/Access and Continued Use.  Installation of and Access to the Licensed
+Materials require, and the continued use thereof may from time to time require,
+activation codes issued by Autodesk.  Registration may be required before an act
+ivation code is issued by Autodesk.  Licensee will provide Autodesk and its Rese
+ller with any information required for such registration and agrees that any inf
+ormation provided to Autodesk or its Reseller will be accurate and current.  Lic
+ensee will also maintain and update Licensee�s registration information, on an o
+ngoing basis, through customer data registration processes, including without li
+mitation the Customer Information Form, which may be provided by Autodesk.  Lice
+nsee acknowledges and agrees that Autodesk may use such information in accordanc
+e with its Privacy Statement (as described or referenced in Section 4 (Privacy;
+Use of Information; Connectivity)).
+6.2.2	Disabling Access.  LICENSEE ACKNOWLEDG
+ES AND AGREES THAT INSTALLATION OF AND ACCESS TO LICENSED MATERIALS MAY BE DISAB
+LED BY THE ACTIVATION, SECURITY, AND TECHNICAL PROTECTION MECHANISMS IF LICENSEE
+ TRIES TO TRANSFER ALL OR A PART OF THE LICENSED MATERIALS TO ANOTHER COMPUTER,
+IF LICENSEE TAMPERS WITH THE TECHNICAL PROTECTION MECHANISMS OR DATE-SETTING MEC
+HANISMS ON A COMPUTER OR IN THE LICENSED MATERIALS, IF LICENSEE USES THE LICENSE
+D MATERIALS PAST AN APPLICABLE RELATIONSHIP PROGRAM PERIOD OR FIXED TERM, OR IF
+LICENSEE UNDERTAKES CERTAIN OTHER ACTIONS THAT AFFECT THE SECURITY MODE OR UNDER
+ OTHER CIRCUMSTANCES AND THAT, IN ANY SUCH EVENT, LICENSEE�S ACCESS TO LICENSEE�
+S WORK PRODUCT AND OTHER DATA MAY BE AFFECTED.  MORE INFORMATION IS CONTAINED IN
+ THE APPLICABLE LICENSED MATERIALS OR AVAILABLE FROM AUTODESK ON REQUEST.
+6.2.3
+Effect of Activation Codes.  Licensee acknowledges and agrees that receipt of an
+ activation code (whether or not provided to Licensee in error) will not constit
+ute evidence of or affect the scope of Licensee�s license rights.  Those rights
+will be only as set forth in this Agreement and the applicable License Identific
+ation.
+6.3	Affected Data.  Work product and other data created with Licensed Mat
+erials made available under certain License Types, including licenses that limit
+ the permitted purpose to educational purposes or personal learning purposes, ma
+y contain certain notices and limitations that make the work product and other d
+ata usable only in certain circumstances (e.g., only in the education field).  I
+n addition, if Licensee combines or links work product or other data created wit
+h such Licensed Materials with work product or other data otherwise created, the
+n such other work product or data may also be affected by these notices and limi
+tations.  Autodesk will have no responsibility or liability whatsoever if Licens
+ee combines or links work product or other data created with such Licensed Mater
+ials with work product or other data otherwise created.  In addition, Licensee w
+ill not remove, alter or obscure any such notices or limitations.
+7.	Limitations
+ of Liability
+7.1	Limitation on Type and Amount of Liability.  IN NO EVENT WILL
+AUTODESK OR ITS SUPPLIERS HAVE ANY LIABILITY (DIRECTLY OR INDIRECTLY) FOR ANY IN
+CIDENTAL, SPECIAL, INDIRECT, CONSEQUENTIAL OR PUNITIVE DAMAGES; FOR LOSS OF PROF
+ITS, USE, REVENUE, OR DATA; OR FOR BUSINESS INTERRUPTION (REGARDLESS OF THE LEGA
+L THEORY FOR SEEKING SUCH DAMAGES OR OTHER LIABILITY).  IN ADDITION, THE LIABILI
+TY OF AUTODESK AND ITS SUPPLIERS ARISING OUT OF OR RELATING TO ANY AUTODESK MATE
+RIALS, RELATIONSHIP PROGRAMS OR SERVICES WILL NOT EXCEED THE AMOUNT PAID OR PAYA
+BLE BY LICENSEE FOR SUCH AUTODESK MATERIALS, RELATIONSHIP PROGRAMS, OR SERVICES,
+ RESPECTIVELY.
+7.2	Application of and Basis for Limitations.  THE LIMITATIONS
+OF LIABILITY IN THIS SECTION 7 (LIMITATIONS OF LIABILITY) WILL APPLY TO THE MAXI
+MUM EXTENT PERMITTED BY APPLICABLE LAW TO ANY DAMAGES OR OTHER LIABILITY, HOWEVE
+R CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, WHETHER DERIVED FROM CONTRAC
+T, TORT (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE, EVEN IF AUTODE
+SK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LIABILITY AND REGARDLESS OF WHETH
+ER THE LIMITED REMEDIES AVAILABLE HEREUNDER FAIL OF THEIR ESSENTIAL PURPOSE.  AL
+SO, LICENSEE AGREES THAT THE LICENSE, RELATIONSHIP PROGRAMS AND SERVICES FEES AN
+D OTHER FEES CHARGED BY AUTODESK AND PAID BY LICENSEE ARE BASED ON AND REFLECTIV
+E OF THE ALLOCATION OF RISK CONTEMPLATED BY THIS SECTION 7 (LIMITATIONS OF LIABI
+LITY) AND THAT THE LIABILITY LIMITATIONS IN THIS SECTION 7 (LIMITATIONS OF LIABI
+LITY) ARE AN ESSENTIAL ELEMENT OF THE AGREEMENT BETWEEN THE PARTIES.
+8.	Term and
+ Termination
+8.1	Term; Termination or Suspension.  Each license under this Agree
+ment, with respect to each specific set of Licensed Materials covered by this Ag
+reement, will become effective as of the latest to occur of: (a) this Agreement
+becoming effective, (b) payment by Licensee of the applicable fees, excluding li
+censes (such as evaluation licenses) where no fees are required, (c) delivery of
+ the specific Licensed Materials, and (d) in the case of Autodesk Materials prov
+ided in connection with a Relationship Program, upon commencement of the applica
+ble Relationship Program period or fixed term. Each of Autodesk or Licensee may
+terminate this Agreement, Licensee�s license as to Licensed Materials, Licensee�
+s Relationship Program, and/or the provision of Services relating to the License
+d Materials if the other party is in breach of this Agreement and fails to cure
+such breach within ten (10) days after written notice of the breach; however, if
+ Licensee is in breach of Section 1 (License) or Section 2 (License Limitations;
+ Prohibitions), Autodesk may terminate this Agreement, Licensee�s license as to
+Licensed Materials, Licensee�s Relationship Program, and/or the provision of Ser
+vices relating to the Licensed Materials immediately upon written notice of the
+breach.  In addition, Autodesk may, as an alternative to termination, suspend Li
+censee�s license as to the Licensed Materials, Licensee�s Relationship Program,
+the provision of Services relating to the Licensed Materials, and/or other Autod
+esk obligations or Licensee rights under this Agreement (or under other terms, i
+f any, relating to materials associated with the Licensed Materials), if License
+e fails to make a payment to Autodesk or a Reseller or otherwise fails to comply
+ with the provisions of this Agreement or other terms relating to any such licen
+se, Relationship Program, Services, or other associated materials.  Autodesk may
+ also terminate this Agreement if Licensee becomes subject to bankruptcy proceed
+ings, becomes insolvent, or makes an arrangement with Licensee�s creditors.  Thi
+s Agreement will terminate automatically without further notice or action by Aut
+odesk if Licensee goes into liquidation.
+Licensee acknowledges and agrees that
+ Autodesk may assign or sub-contract any of its rights or obligations under this
+ Agreement.
+8.2	Effect of Termination of Agreement or License.  Upon termination
+ or expiration of this Agreement, the licenses granted hereunder will terminate.
+  Upon termination or expiration of any license granted to Licensee, Licensee mu
+st cease all use of Autodesk Materials to which such license applies, any Relati
+onship Program (including, without limitation, associated services), and any Ser
+vices and Uninstall all copies of the Autodesk Materials.  At Autodesk�s request
+, Licensee agrees to destroy or return to Autodesk or the Reseller from which th
+ey were acquired all Autodesk Materials.  Autodesk reserves the right to require
+ Licensee to show satisfactory proof that all copies of the Autodesk Materials h
+ave been Uninstalled and, if so requested by Autodesk, destroyed or returned to
+Autodesk or the Reseller from which they were acquired.  If Licensee�s Relations
+hip Program is terminated or expires, but this Agreement and Licensee�s license
+to the Licensed Materials remains in effect, any rights of Licensee based on the
+ Relationship Program (including, without limitation, rights with respect to Pre
+vious Versions) will terminate, and (unless otherwise authorized by the Relation
+ship Program Terms) Licensee must comply with the obligations of Section 1.2.1 (
+Effect of Upgrades) with respect to (including the obligations to cease use of,
+Uninstall and destroy or return) all copies of such Previous Versions.
+8.3	Survi
+val.  Sections 1.3 (Additional Terms), 1.4 (Other Materials), 1.5 (Authorized Us
+ers), 1.6 (Third-Party Licensed Materials), 1.11 (APIs), 2.1.1 (No License Grant
+ed;Unauthorized Activities), 2.1.4 (Effect of Unauthorized Use), 2.2 (Circumvent
+ion), 3 (All Rights Reserved), 4 (Privacy; Use of Information; Connectivity), 5.
+2 (Disclaimer), 6 (Warnings), 7 (Limitations of Liability), 8 (Term and Terminat
+ion), and 9 (General Provisions) and Exhibit A will survive any termination or e
+xpiration of this Agreement.
+9.	General Provisions
+9.1	Notices.  Notices in conn
+ection with this Agreement by either party will be in writing and will be sent b
+y electronic mail, postal service, or a delivery service (such as UPS, FedEx or
+DHL), except that Licensee may not provide notice to Autodesk of an Autodesk bre
+ach or provide notice of termination of this Agreement by electronic mail.  Noti
+ces from Autodesk to Licensee will be effective (a) in the case of notices by em
+ail, one (1) day after sending to the email address provided to Autodesk, or (b)
+ in the case of notices by mail or delivery service, five (5) days after sending
+ by regular post or delivery service to the address provided to Autodesk.  Licen
+see hereby consents to service of process being effected on Licensee by register
+ed mail sent to the address set forth on Licensee�s Customer Information Form (o
+r, if no Customer Information Form has been provided, Licensee�s last address kn
+own by Autodesk) if so permitted by applicable law.  Notices from Licensee to Au
+todesk will be effective (a) in the case of notices by email, one (1) day after
+sending to (and receipt by Autodesk at) CopyrightAgent@autodesk.com, or (b) in t
+he case of notices by mail or delivery service, when received by Autodesk at Aut
+odesk, Inc., 111 McInnis Parkway, San Rafael, California 94903, USA, Attention:
+Copyright Agent.  If Licensee participates in a Relationship Program, either par
+ty may also provide notice as set forth in the Relationship Program Terms.
+9.2	G
+overning Law and Jurisdiction.  This Agreement will be governed by and construed
+ in accordance with the laws of (a) Switzerland if Licensee acquired the Autodes
+k Materials in a country in Europe, Africa or the Middle East, (b) Singapore if
+Licensee acquired the Autodesk Materials in a country in Asia, Oceania or the As
+ia-Pacific region, or (c) the State of California (and, to the extent controllin
+g, the federal laws of the United States) if Licensee acquired the Autodesk Mate
+rials in a country in the Americas (including the Caribbean) or any other countr
+y not specified in this Section 9.2 (Governing Law and Jurisdiction).  The laws
+of such jurisdictions shall govern without reference to the conflicts-of-laws ru
+les thereof.  The UN Convention on Contracts for the International Sale of Goods
+ and the Uniform Computer Information Transaction Act shall not apply to (and ar
+e excluded from the laws governing) this Agreement.  In addition, each party agr
+ees that any claim, action or dispute arising under or relating to this Agreemen
+t will be brought exclusively in (and the parties will be subject to the exclusi
+ve jurisdiction of) the Superior Court of the State of California, County of Mar
+in, or the United States District Court for the Northern District of California
+in San Francisco, except that if Licensee has acquired the Autodesk Materials in
+ (a) a country in Europe, Africa or the Middle East, any such claim or dispute w
+ill be brought exclusively in (and the parties will be subject to the exclusive
+jurisdiction of) the courts of Switzerland, or (b) a country in Asia, Oceania or
+ the Asia-Pacific region, any such claim or dispute will be brought exclusively
+in (and the parties will be subject to the exclusive jurisdiction of) the courts
+ of Singapore.  Nothing in the foregoing will prevent Autodesk from bringing an
+action for infringement of intellectual property rights in any country where suc
+h infringement is alleged to occur.
+9.3	No Assignment; Insolvency.  Licensee may
+ not assign this Agreement or any rights hereunder (whether by purchase of stock
+ or assets, merger, change of control, operation of law, or otherwise) without A
+utodesk's prior written consent, which may be withheld in Autodesk's sole and ab
+solute discretion, and any unauthorized purported assignment by Licensee will be
+ void.  In the context of any bankruptcy or similar proceeding, Licensee acknowl
+edges and agrees this Agreement is and shall be treated as an executory contract
+ that may not be assumed and/or assigned without Autodesk's prior written consen
+t, which consent may be withheld in Autodesk's sole and absolute discretion whet
+her pursuant to Section 365(c)(1) of Title 11 of the United States Code or any o
+ther applicable law respecting the treatment of executory contracts within bankr
+uptcy. Any assignment (regardless of how or on what basis the assignment may occ
+ur) will be conditioned on compliance with the following: at least thirty (30) d
+ays before assigning or agreeing to any assignment of rights under this Agreemen
+t (including transferring any copies of or right to use the Software), (a) Licen
+see must provide written notice to Autodesk, Uninstall all copies of the Softwar
+e, and (without limitation of the generality of Section 9.7 (Audits)) allow Auto
+desk or its designee to inspect the records, systems and facilities of (or opera
+ted for) Licensee and its subsidiaries and affiliates to verify (by any means av
+ailable to Autodesk, whether remotely or on premises) that all copies of the Sof
+tware have been Uninstalled, (b) the proposed assignee must agree to comply (and
+ Licensee must ensure that the assignee will comply) with all of the obligations
+ of this Agreement with respect to such Software, which agreement must provide t
+hat Autodesk is a third-party beneficiary of the assignee�s agreement, and the a
+ssignee must provide a copy of the agreement to Autodesk, and (c) Licensee and p
+roposed assignee must comply with all other transfer procedures identified by Au
+todesk.
+9.4	Autodesk Subsidiaries and Affiliates.  Licensee acknowledges and agr
+ees that Autodesk may arrange to have its subsidiaries and affiliates engage in
+activities in connection with this Agreement, including, without limitation, del
+ivering Autodesk Materials and providing Relationship Programs and Services, pro
+vided that Autodesk (and not such subsidiaries and affiliates) will remain subje
+ct to the obligations of Autodesk under this Agreement.  Licensee also agrees th
+at Autodesk�s subsidiaries and affiliates may enforce (including taking actions
+for breach of) this Agreement.
+9.5	Exceptions to Prohibitions; Severability.
+9
+.5.1	Exceptions to Prohibitions. The prohibitions contained in this Agreement wi
+ll not apply where and to the extent applicable law does not allow such prohibit
+ions to be enforced.  Licensee may have other rights under the laws of the state
+ or country within the Territory where the Licensed Materials are acquired, and
+this Agreement does not change Licensee�s rights under the laws of such state or
+ country if and to the extent the laws of such state or country do not permit th
+is Agreement to do so.  Licensee will bear the burden of proof to demonstrate th
+at applicable law does not allow (i) the enforcement of such prohibitions; or (i
+i) this Agreement to change particular rights in a state or country (and that Li
+censee has not exceeded the bounds of the unenforceable prohibitions and unchang
+eable rights).
+9.5.2	Severability. If and to the extent any provision of this Ag
+reement is held illegal, invalid, or unenforceable in whole or in part under app
+licable law, such provision or such portion thereof will be ineffective as to th
+e jurisdiction in which it is illegal, invalid, or unenforceable to the extent o
+f its illegality, invalidity, or unenforceability and will be deemed modified to
+ the extent necessary to conform to applicable law so as to give the maximum eff
+ect to the intent of the parties.  The illegality, invalidity, or unenforceabili
+ty of such provision in that jurisdiction will not in any way affect the legalit
+y, validity, or enforceability of such provision or any other provision of this
+Agreement in any other jurisdiction.
+9.6	No Waiver.  No term or provision of thi
+s Agreement will be considered waived, and no breach excused, unless such waiver
+ is in writing signed on behalf of the party against which the waiver is asserte
+d.  No waiver (whether express or implied) will constitute consent to, waiver of
+, or excuse of any other, different, or subsequent breach.
+9.7	Audits.  Licensee
+ agrees that Autodesk has the right to require an audit (electronic or otherwise
+) of the Autodesk Materials and the Installation thereof and Access thereto.  As
+ part of any such audit, Autodesk or its authorized representative will have the
+ right, on fifteen (15) days� prior notice to Licensee, to inspect Licensee�s re
+cords, systems and facilities, including machine IDs, serial numbers and related
+ information, to verify that the use of any and all Autodesk Materials is in con
+formance with this Agreement.  Licensee will provide full cooperation to enable
+any such audit.  If Autodesk determines that Licensee�s use is not in conformity
+ with the Agreement, Licensee will obtain immediately and pay for valid license(
+s) to bring Licensee�s use into compliance with this Agreement and other applica
+ble terms and pay the reasonable costs of the audit.  In addition to such paymen
+t rights, Autodesk reserves the right to seek any other remedies available at la
+w or in equity, whether under this Agreement or otherwise.
+9.8	Language.  The En
+glish language version of this Agreement is legally binding in case of any incon
+sistencies between the English version and any translations.  If Licensee purcha
+sed the license for the Licensed Materials in Canada, Licensee agrees to the fol
+lowing: The parties hereto confirm that it is their wish that this Agreement, as
+ well as other documents relating hereto, including notices, have been and shall
+ be written in the English language only. Les parties ci-dessus confirment leur
+d�sir que cet accord ainsi que tous les documents, y compris tous avis qui s'y r
+attachent, soient r�dig�s en langue anglaise.
+9.9	Construction.  Ambiguities in
+this Agreement will not be construed against the drafter.
+9.10	Force Majeure.  A
+utodesk will not be liable for any loss, damage or penalty resulting from delays
+ or failures in performance resulting from acts of God, supplier delay or other
+causes beyond Autodesk's reasonable control.
+9.11	U.S. Government Rights.  For U
+.S. Government procurements, all Autodesk Materials are deemed to be commercial
+computer software as defined in FAR 12.212 and subject to restricted rights as d
+efined in FAR Section 52.227-19 "Commercial Computer Software - Restricted Right
+s" and DFARS 227.7202, �Rights in Commercial Computer Software or Commercial Com
+puter Software Documentation�, as applicable, and any successor regulations. Any
+ use, modification, reproduction release, performance, display or disclosure of
+the Autodesk Materials by the U.S. Government shall be solely in accordance with
+ license rights and restrictions described herein.
+9.12	Export Control.  License
+e acknowledges and agrees that the Autodesk Materials and Services (including an
+y data submitted by Licensee in connection with a Service and any Licensee-speci
+fic output generated by a Service) are subject to compliance with United States
+and other applicable country export control and trade sanctions laws, rules and
+regulations, including, without limitation the regulations promulgated by the U.
+S. Department of Commerce and the U.S. Department of the Treasury (collectively,
+ "Export Control Laws").  Licensee represents, warrants and covenants that neith
+er Licensee nor Licensee�s Personnel (i) are a citizen or resident of, or locate
+d within, a nation that is subject to U.S. trade sanctions or other significant
+trade restrictions (including, without limitation, Cuba, Iran, Sudan, Syria and
+North Korea), (ii) are identified on any of the U.S. government restricted party
+ lists (including, without limitation, the U.S. Treasury Department's List of Sp
+ecially Designated Nationals and Blocked Persons, the U.S. Department of Commerc
+e�s Denied Party List, Entity List and Unverified List and the U.S. Department o
+f State�s proliferation-related lists), (iii) will, unless otherwise authorized
+under the Export Control Laws, use Autodesk Materials or Services in any restric
+ted end use, including, without limitation, design, analysis, simulation, estima
+tion, testing, or other activities related to nuclear, chemical/biological weapo
+ns, rocket systems or unmanned air vehicles applications, or (iv) will use the A
+utodesk Materials or Services to disclose, transfer, download, export, or re-exp
+ort, directly or indirectly, any Licensee-specific output generated by the Autod
+esk Materials or Services, Licensee content, third party content, or any other c
+ontent or material to any country, entity, or party that is ineligible to receiv
+e such items under the Export Control Laws or other laws or regulations to which
+ Licensee may be subject.  Licensee understands that the requirements and restri
+ctions of the Export Control Laws as applicable to Licensee may vary depending o
+n the Autodesk Materials or Services provided under this Agreement and may chang
+e over time.  Licensee shall be solely responsible for (i) determining the preci
+se controls applicable to the Autodesk Materials or Services, and (ii) complying
+ with the Export Control Laws and monitoring any modifications to them.
+9.13	Ent
+ire Agreement.  This Agreement and any other terms referenced in this Agreement
+(such as the Relationship Program Terms and the Services Terms) constitute the e
+ntire agreement between the parties (and merge and supersede any prior or contem
+poraneous agreements, discussions, communications, agreements, representations,
+warranties, advertising or understandings) with respect to the subject matter he
+reof, except that particular Autodesk Materials may be subject to additional or
+different terms associated with such Autodesk Materials.  The parties acknowledg
+e that, in entering into this Agreement, they are not relying on any agreements,
+ discussions, communications, agreements, representations, warranties, advertisi
+ng or understandings other than as expressly set forth in this Agreement.  Licen
+see acknowledges and agrees that Autodesk may add to or change the Relationship
+Program Terms and the Services Terms from time to time, provided that Autodesk w
+ill provide written notice of the additions or changes (and may allow Licensee n
+ot to renew, may permit Licensee to terminate, and may offer other options with
+respect to Relationship Programs or Services) before the additions or changes ar
+e effective as to Licensee.  In the event of a conflict between this Agreement a
+nd any other terms of Autodesk (including, without limitation, the Relationship
+Program Terms, the Services Terms, or such additional or different terms), the o
+ther terms will apply.  Terms stipulated by Licensee in any communication by Lic
+ensee which purport to vary this Agreement or such other terms will be void and
+of no effect unless agreed in a writing signed by an authorized representative o
+f Autodesk.  Any other modifications to this Agreement will also be invalid unle
+ss agreed to in a writing signed by an authorized representative of Autodesk.
+10
+.		Additional Terms.
+This Section 10 (Additional Terms) applies to the following
+ Software that may be included within the Licensed Materials: (i) Autodesk Maya;
+ (ii) Autodesk Softimage; (iii) Autodesk 3ds Max; and (iv) Autodesk 3ds Max Desi
+gn.
+10.1	Rendering.
+10.1.1	With regard to the Rendering Software (defined below)
+, in addition to any other license granted in this Agreement, Licensee may allow
+ the Rendering Software to be Installed or Accessed on a Networked Basis, solely
+ for Licensee�s Internal Business Needs, specifically to render files created wi
+th the Software.  However, if the Rendering Software is mental ray, and the Soft
+ware is provided with a finite number of mental ray rendering nodes, then with r
+egard to mental ray the foregoing is restricted to that number of mental ray ren
+dering nodes.
+10.1.2	With regard to the mental ray Batch Software (defined below
+), in addition to any other license granted in this Agreement, Licensee may allo
+w the mental ray Batch Software to be Installed or Accessed on a Networked Basis
+, solely for Licensee�s Internal Business Needs, and used (i) specifically to re
+nder files created with the Software; or (ii) by the Rendering Software specific
+ally to render files created with the Software. The total number of CPUs used by
+ the mental ray Batch Software cannot exceed the number specified in the License
+ Identification.
+10.1.3	With regard to the mental ray Standalone (defined below)
+, Licensee may allow the mental ray Standalone to be Installed or Accessed, on a
+ Networked Basis, solely on Computing Device(s) (defined below) solely for Licen
+see�s Internal Business Needs specifically to render files created with the Soft
+ware.  With regard to mental ray Standalone, any reference in the Agreement to C
+omputer is hereby deleted and �Computing Device(s)� substituted therefor.
+10.1.4
+	With regard to the mental ray Satellite (defined below) for each of Autodesk 3d
+s Max, Autodesk Maya and Autodesk Softimage Software each mental ray Satellite e
+xecutable(s) may run on one (1) or more host no more than four (4) client Comput
+ing Devices. With regard to mental ray Satellite, any reference in the Agreement
+ to Computer is hereby deleted and �Computing Device(s)� substituted therefor.
+1
+0.1.5	Definitions.
+        (1)	�mental ray Standalone� means the mental ray Stan
+dalone client/server executable, including the mental ray standard shader librar
+ies and utility programs, used specifically for rendering files created with the
+ Software.
+        (2)	�Rendering Software� means a subset of the Software used
+specifically for rendering files created with the Software.
+        (3)	�mental
+ray Batch Software� means a subset of the Software used: (i) specifically for re
+ndering files created with the Software or (ii) by the Rendering Software specif
+ically for rendering files created with the Software.
+        (4)	�mental ray Sa
+tellite� means the mental ray Satellite server executable, including the mental
+ray standard shader libraries.  mental ray Satellite is functionally equivalent
+to the mental ray Standalone server executable, used specifically for rendering
+files created with the Software except it is not able to read and write files in
+ the complete mi2 format.
+        (5)	�Computing Device� means (i) a single elec
+tronic assembly with a maximum of: (a) four (4) CPUs (regardless of the number o
+f cores in each CPU) each CPU having one or more microprocessors, (b) four (4) d
+iscrete GPU-based computing boards; or (ii) a software implementation of the sin
+gle electronic assembly, (a so-called 'virtual machine') described in (i) above,
+ which single electronic assembly  accepts information in digital or similar for
+m and manipulates the information for a specific result based on a sequence of i
+nstructions.
+10.2	Exceptions.
+10.2.1	This Section 10.2 (Exceptions) applies to
+ the Autodesk Media & Entertainment 3D entertainment Software that may be includ
+ed within the Licensed Materials. Notwithstanding the provisions set forth in Se
+ction 2.1.1 (No License Granted; Unauthorized Activities) if: (i) the Redistribu
+table Component (defined below) operates with the Software and with Licensee App
+lication; and (ii) the Redistributable Component is linked to Licensee Applicati
+on; then Licensee may reproduce and distribute the Redistributable Component and
+ Licensee Application together, subject to Licensee�s strict adherence to all of
+ the following terms and conditions:
+        (a)	the class identifications for a
+ny classes of objects Licensee created shall be different from and clearly disti
+nguishable from the class identifications used by Autodesk;
+        (b)	modified
+ Sample (defined below) code and any resulting binary files in Licensee Applicat
+ion are identified as developed by Licensee, and not by Autodesk;
+        (c)	Li
+censee Application has Licensee�s copyright notice;
+        (d)	any Modification
+ (defined below), and resulting binary files, shall include the copyright notice
+s of Autodesk, Inc. as well as the following statement: "This software contains
+copyrighted code owned by Autodesk, Inc. but has been modified and is not endors
+ed by Autodesk, Inc."  The language of the copyright notice and the statement sh
+all be in the same language as the Software language;
+        (e)	distribution i
+s strictly for not-for-profit purposes;
+        (f)	distribution is either in bi
+nary form or text form;
+        (g)	distribution is subject to a standard form
+of click-through end-user license agreement which license agreement, among other
+ things:  (1) protects Autodesk's interests consistent with the terms of this Ag
+reement; and (2) prohibits the redistribution of the Redistributable Component;
+
+        (h)	if the Redistributable Component operates with the Autodesk 3ds Max
+Software and/or Autodesk 3ds Max Design Software and with Licensee Application t
+hen prior to reproduction and distribution of the Redistributable Component and
+Licensee Application all MIDI files have been excluded from the Redistributable
+Component and Licensee Application; and
+        (i)	Licensee agrees to defend,
+indemnify and hold harmless Autodesk and its subsidiaries and affiliates from an
+d against any and all damages, costs, losses, liabilities, expenses and settleme
+nt amounts incurred in connection with any suit, claim or action by any third pa
+rty alleging that the Redistributable Component and/or Licensee Application infr
+inges or misappropriates any patent, copyrights, moral rights, trademark, trade
+secret and design rights, whether registered or unregistered, and including any
+application for registration of any of the foregoing and all rights or forms of
+protections of a similar nature having equivalent or similar effect to any of th
+ese, which may subsist anywhere in the world, of such third party.
+10.2.2	Defini
+tions.
+        (1)	"Licensee Application" means, with regard to the Software, a
+Modification made by Licensee for designing, developing, and testing an applicat
+ion program made by Licensee.
+        (2)	"Modification" means any: (i) addition
+ to the substance of a Sample or any addition to the substance of the contents o
+f a file containing a Sample; (ii) any deletion from the structure of a Sample,
+or any deletion from the structure of the contents of a file containing a Sample
+; and/or (iii) any new file that contains any part of a Sample; all of which, in
+ Autodesk�s sole discretion, ensures that the Sample is not the primary source o
+f value.
+        (3)	"Redistributable Component" means the Sample(s) and/or a Mo
+dification.
+        (4)	"Sample(s)" means sample source code, or individual anim
+ations, still images, and/or audio files contained in the Software, and located
+in the samples directory, the examples subdirectory, samples files or any simila
+r type directory or file.
+10.3	Additional Terms; Certain Softimage Materials.  T
+his Section 10.3 (Additional Terms; Certain Softimage Materials) applies to the
+following Software that may be included within the Licensed Materials: (i) Autod
+esk Softimage Mod Tool software; and (ii) Autodesk Softimage Mod Tool Pro softwa
+re.
+10.3.1	Autodesk Softimage Mod Tool Software.  In the event the Software is A
+utodesk Softimage Mod Tool Software then the applicable Exhibit B License Type i
+s B. 4. (Educational Stand-alone (Individual) License).
+10.3.2	Autodesk Softimag
+e Mod Tool Pro Software.  In the event the Software is Autodesk Softimage Mod To
+ol Pro Software, then the applicable Exhibit B License Type is B. 1. (Stand-alon
+e (Individual) License), however, Licensee�s Internal Business Needs are limited
+ to the design, development and testing of an application program designed to fu
+nction with the Software for Licensee�s internal use in producing multimedia con
+tent in conjunction with Licensee�s valid XNA� Creators Club Online Premium Memb
+ership.
+11.		Additional Terms: Quantity Take Off.
+This Section 11 (Additional T
+erms; Quantity Take Off) applies to the Quantity Take Off Software that may be i
+ncluded within the Licensed Materials (�QTO Software�):
+11.1	The QTO Software is
+ based in part on the work of the Independent JPEG Group.
+11.2	Portions of the Q
+TO Software include Crystal Reports Runtime Software (�Runtime Software�) licens
+ed from Business Objects Software Ltd (�Business Objects�). Licensee�s use of th
+e Runtime Software is subject to the following terms:
+        (a)	Licensee agree
+s not to alter disassemble, decompile, translate, adapt or reverse-engineer the
+Runtime Software or the report file (.RPT) format;
+        (b)	Licensee agrees
+not to distribute the Runtime Software with any general-purpose report writing,
+data analysis or report delivery product or any other product that performs the
+same or similar functions as Business Objects� product offerings;
+        (c)	L
+icensee agrees not to use the Runtime Software to create for distribution a prod
+uct that is generally competitive with Business Objects' product offerings;
+
+     (d)	Licensee agrees not to use the Runtime Software to create for distribut
+ion a product that converts the report file (.RPT) format to an alternative repo
+rt file format used by any general-purpose report writing, data analysis or repo
+rt delivery product that is not the property of Business Objects; and
+        (e
+)	Licensee agrees not to use the Crystal Reports Software on a rental or timesha
+ring basis or to operate a service bureau facility for the benefit of third-part
+ies.
+11.3	BUSINESS OBJECTS AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, EXPRESS O
+R IMPLIED, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF MERCHANTABILITY, FITNE
+SS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. BUSINESS
+ OBJECTS AND ITS SUPPLIERS SHALL HAVE NO LIABILITY WHATSOEVER UNDER THIS AGREEME
+NT OR IN CONNECTION WITH THE CRYSTAL REPORTS SOFTWARE.
+12.	Autodesk download tec
+hnology may use the Akamai NetSession Interface, which may utilize a limited amo
+unt of your upload bandwidth and PC resources to connect you to a peered network
+ and improve speed and reliability of Web content. The Akamai NetSession Interfa
+ce is secure client-side networking technology that harnesses the power of your
+computer to deliver software and media available on the Akamai network. Your Aka
+mai NetSession Interface works collectively with other Akamai NetSession Interfa
+ces, along with thousands of Akamai edge servers, and runs as a networking servi
+ce utilizing a limited amount of your computer's available resources. More infor
+mation about the Akamai NetSession Interface is available here: http://www.akama
+i.com/client. By clicking "Accept" and using the Autodesk download technology, y
+ou accept the Akamai License Agreement (http://www.akamai.com/eula) in addition
+to the Autodesk License and Service Agreement.
+
+Exhibit A
+Definitions
+1.	�Access
+� or �Accessible� means, with respect to a computer program or other materials,
+(a) to use or execute the computer program or other materials or (b) to use or o
+therwise benefit from the features or functionality of the computer program or o
+ther materials.
+2.	�Agreement� means this License and Services Agreement, includ
+ing all exhibits and schedules thereto, as the License and Services Agreement ma
+y be amended from time to time in accordance with the terms thereof.
+3.	�Authori
+zed User� means any individual person who Installs or Accesses, or is authorized
+ to Install or Access, any of the Licensed Materials.
+4.	�Autodesk� means Autode
+sk, Inc., a Delaware corporation, except that if, Licensee acquires a license to
+ the Autodesk Materials in (a) a country in Europe, Africa or the Middle East, �
+Autodesk� means Autodesk Development S�rl or (b) a country in Asia, Oceania or t
+he Asia-Pacific region, �Autodesk� means Autodesk Asia Pte Ltd.
+5.	�Autodesk Lic
+ense Manager� means the tool known as Autodesk License Manager or any future Aut
+odesk tool for managing, monitoring or controlling Installation of or Access to
+Autodesk Materials.
+6.	�Autodesk Materials� means any materials distributed or m
+ade available by Autodesk, directly or indirectly, including Software, Supplemen
+tal Materials, User Documentation and Excluded Materials (whether or not license
+d to Licensee).
+7.	�Computer� means (i) a single electronic device, with one or
+more central processing units (CPUs), that accepts information in digital or sim
+ilar form and manipulates the information for a specific result based on a seque
+nce of instructions, or (ii) a software implementation of such a device (or so-c
+alled virtual machine).
+8.	�Customer Information Form� means a form completed by
+ or on behalf of Licensee and submitted to Autodesk or a Reseller, directly or i
+ndirectly, in connection with Licensee�s order for a license of Autodesk Materia
+ls, Relationship Program or Services.
+9.	�Educational Licensee� means a Licensee
+ who is also (a) a Qualified Educational Institution, (b) Faculty, (c) Student o
+r (d) Other Authorized Educational Licensee.  An Educational Licensee may be req
+uired to show proof of eligibility if requested by Autodesk.  Autodesk, in its s
+ole discretion, retains the right to determine the eligibility of an Educational
+ Licensee.
+10. 	�Educational Purposes� means (i) in the case of a Qualified Edu
+cational Institution, Faculty or Other Authorized Educational Licensees, purpose
+s directly related to learning, teaching, training, research and development tha
+t are part of the instructional functions performed by a Qualified Educational I
+nstitution or Other Authorized Educational Licensee and (ii) in the case of Stud
+ents, purposes related to learning, training, research or development.  �Educati
+onal Purposes� does not include commercial, professional or any other for-profit
+ purposes.
+11.	�Evaluation Purposes� means purposes of evaluation and demonstrat
+ion of the capabilities of the Software or Supplemental Materials but excludes c
+ompetitive analysis and any commercial, professional, or other for-profit purpos
+es.
+12.	�Excluded Materials� means any materials, including Software, Supplement
+al Materials or User Documentation (and including, without limitation, any compu
+ter programs, modules or components of a computer program, functionality or feat
+ures of a computer program, explanatory printed or electronic materials, content
+ or other materials, if any), that may be provided or become available to Licens
+ee, by any means, or that are on any media delivered to Licensee, for which (a)
+Licensee does not have a License Identification, or (b) Licensee has not paid (a
+nd continued to pay) the applicable fees.  Licensee acknowledges that Excluded M
+aterials are included on media or via download for convenience of the licensing
+mechanism used by Autodesk, and inclusion does not in any way authorize, express
+ly or impliedly, a right to use such Excluded Materials.
+13.	�Faculty� means an
+individual person who is an employee or independent contractor working for a Qua
+lified Educational Institution.
+14.	�Install� and �Installation� means, with res
+pect to a computer program or other materials, to copy the program or other mate
+rials onto a hard disk or other storage medium.
+15.	�License Identification� mea
+ns one or more designations by Autodesk that set forth the License Type (among o
+ther things) for Licensee�s license of the Licensed Materials.  The License Iden
+tification may be (a) located (i) in the Licensed Materials (e.g., in an �About�
+ box, license information dialog box, or text file of Software), (ii) on or with
+ Autodesk packaging, or (iii) in a written confirmation or other notice issued t
+o Licensee by Autodesk and transmitted via email, facsimile, physical delivery,
+or otherwise, or (b) obtained from Autodesk on request.  For clarification, Lice
+nse Identification does not include a designation, confirmation, packaging or ot
+her document provided by a Reseller or other third party.
+16.	�License Type� mea
+ns a type of license specified by Autodesk for Autodesk Materials, including the
+ types set forth in Exhibit B.  License Type includes the terms specified by Aut
+odesk for each type of license, including the applicable terms set forth in Exhi
+bit B.  License Type is determined by Autodesk and may be specified in the appli
+cable License Identification.
+17.	�Licensed Materials� means Software, Supplemen
+tal Materials and User Documentation (a) downloaded by clicking on the �I accept
+� button or other button or mechanism associated with this Agreement or by other
+wise indicating assent to this Agreement, (b) delivered prepackaged with this Ag
+reement, or (c) otherwise accompanied by this Agreement, provided that (i) in th
+e case of Software, the Software is identified in an applicable License Identifi
+cation, and (ii) Licensee has paid (and continues to pay) the applicable fees.
+Licensed Materials also includes Supplemental Materials and User Documentation t
+hat Autodesk provides or makes available to Licensee for use with Software licen
+sed under this Agreement if there are no separate terms for such materials speci
+fied by Autodesk.  Licensed Materials includes, without limitation, any error co
+rrections, patches, service packs, updates and upgrades to, and new versions of,
+ the Licensed Materials that Autodesk provides or makes available to Licensee un
+der Licensee�s then-current license.  Licensee acknowledges that availability of
+ Upgrades and new versions may be subject to additional fees and the Relationshi
+p Program Terms.  In addition, Licensed Materials includes, without limitation,
+any Previous Versions and other Autodesk Materials that Licensee receives or ret
+ains pursuant to the Relationship Program Terms, but only for so long as and to
+the extent expressly authorized by the Relationship Program Terms.  Notwithstand
+ing the foregoing (or any other provision of this Agreement), Licensed Materials
+ in all cases excludes Excluded Materials.
+18.	�Licensee� means (a) the company
+or other legal entity on behalf of which Autodesk Materials are acquired, if the
+ Autodesk Materials are acquired on behalf of such an entity (e.g., by an employ
+ee, independent contractor, or other authorized representative), or (b) if there
+ is no such entity, the individual who accepts this Agreement (e.g., by selectin
+g the �I accept� button or other button or mechanism associated with this Agreem
+ent or otherwise indicating assent to this Agreement, or by installing, download
+ing, accessing, or otherwise copying or using all or any portion of the Autodesk
+ Materials).  For clarification, �Licensee� refers only to a single, specificall
+y identified legal entity or individual, and does not include any subsidiary or
+affiliate of any such legal entity or individual or any other related person.
+19
+.	�Licensee�s Internal Business Needs� means, in reference to Licensed Materials
+, the use of such Licensed Materials (and the features and functionality thereof
+) by Licensee�s own Personnel to meet the internal requirements of Licensee�s bu
+siness in the ordinary course of such business, provided that Internal Business
+Needs will in no event include providing or making available such Licensed Mater
+ials (or the features or functionality thereof) to any third party.
+20.	�Network
+ed Basis� means a computing environment that includes a Computer acting as a fil
+e server which allows the Licensed Materials Installed on such Computer to be up
+loaded and Installed to, and operated, viewed or otherwise Accessed from, other
+Computers through a local area network connection or through a VPN connection su
+bject to compliance with the VPN Requirements.
+21.	�Open Source� means any softw
+are code that: (a) contains, or is derived in any manner, (in whole or in part),
+ from any software that is distributed as free software, open source software, s
+hareware (e.g., Linux), or similar licensing or distribution models; and (b) is
+subject to any agreement with terms requiring that using, copying, modifying or
+redistributing the software requires that such software and/or the derivative wo
+rks of such software be: (i) disclosed and/or distributed in source code form; (
+ii) be licensed for the purpose of making derivative works; and/or (iii) be redi
+stributed free of charge; including, without limitation, software licensed or di
+stributed under any of the following licenses or distribution models, or license
+s or distribution models similar to, GNU�s General Public License (GPL) or Lesse
+r/Library GPL (LGPL).
+22.	�Other Authorized Educational Licensee� means a Licens
+ee described at http://www.autodesk.com/educationterms or as otherwise authorize
+d in writing by Autodesk.
+23.	�Permitted Number� means a maximum number (e.g., n
+umber of authorized users, number of concurrent users, number of computers, sess
+ions, etc.) applicable to a license of the Licensed Materials and to the License
+ Type associated with such license.  Such number is determined by Autodesk and m
+ay be specified in the applicable License Identification.
+24.	�Personal Learning
+ Purposes� means (i) personal learning as a Student or (ii) in the case of a non
+-Student, personal learning, excluding (a) in-person or online classroom learnin
+g in any degree-granting or certificate granting program, and (b) learning relat
+ed to any commercial, professional or other for-profit purposes.
+25.	�Personnel�
+ means (a) Licensee�s individual employees and (b) individual persons who are in
+dependent contractors working on Licensee�s premises and who Install and Access
+the Licensed Materials only on and through Computers owned or leased and control
+led by Licensee.
+26.	�Previous Versions� means, as to any then-current release o
+f Licensed Materials, a prior release of the Licensed Materials as to which such
+ then-current release is a successor or substitute (as determined by Autodesk).
+
+27.	�Qualified Educational Institution� means an educational institution which h
+as been accredited by an authorized governmental agency within its applicable lo
+cal, state, provincial, federal, or national government and has the primary purp
+ose of teaching its enrolled students. Examples, without limitation, of entities
+ that are included and excluded from this definition are described at http://www
+.autodesk.com/educationterms.
+28.	�Relationship Program� means (i) Subscription
+ or (ii) a rental program offered generally by Autodesk pursuant to which Autode
+sk makes available Licensed Materials.
+29. 	�Relationship Program Terms� means t
+he terms for a Relationship Program set forth at http://usa.autodesk.com/company
+/legal-notices-trademarks/support-terms-and-conditions or any successor or suppl
+emental web page of Autodesk (the URL for which may be obtained on Autodesk�s we
+bsite or on request).
+30. 	�Reseller� means a distributor or reseller authorized
+ directly or indirectly by Autodesk to distribute authentic Autodesk Materials t
+o Licensee.
+31.	�Services� means services (including the results of services) pr
+ovided or made available by Autodesk, including, without limitation, support ser
+vices, storage, simulation and testing services, training and other benefits, bu
+t excluding services provided or made available as part of a Relationship Progra
+m.
+32.	�Services Terms� means the terms for Services set forth at a location whe
+re a user may order or register for, or that is displayed in connection with ord
+ering or registering for, such Services (e.g., a web page) or, if there are no s
+uch terms, at http://usa.autodesk.com/company/legal-notices-trademarks/terms-of-
+service (if the Services are web services) or http://usa.autodesk.com/company/le
+gal-notices-trademarks/terms-of-use for all other Services) or any successor or
+supplemental web pages of Autodesk.
+33.	�Software� means the Autodesk FBX SDK co
+mputer program, or a module or component of a computer program, including the so
+ftware development kit (�SDK�) distributed or made available by Autodesk.  The t
+erm �Software� may also refer to functions and features of a computer program.
+3
+4.	�Stand-alone Basis� means (i) the Licensed Materials are Installed on a singl
+e Computer and (ii) the Licensed Materials cannot be Installed on, or operated,
+viewed or otherwise Accessed from or through any other Computer (e.g., through a
+ network connection of any kind).
+35.	�Student� means an individual person enrol
+led as a student at a Qualified Educational Institution.
+36.	�Subscription� is
+the program offered generally by Autodesk under which Autodesk provides (among o
+ther things) updates and upgrades to, new versions of, and certain other support
+, services and training relating to Autodesk Materials.
+37.	�Supplemental Materi
+als� means materials, other than Software and related User Documentation, that a
+re distributed or made available by Autodesk for use with Software.  Supplementa
+l Materials include, without limitation, (a) content, such as sample drawings an
+d designs, modules for drawings and designs, and representations of elements use
+d in drawings and designs (e.g., buildings, parts of buildings, fixtures, furnit
+ure, bridges, roads, characters, backgrounds, settings and animations), (b) back
+ground materials, such as building codes and descriptions of building practices,
+ (c) tools for rendering the output of the Software, such as fonts, and (d) Deve
+lopment Materials, application programming interfaces (APIs), and other similar
+developer materials (including API Information).
+37	�Territory� (a) means the co
+untry, countries or jurisdiction(s) specified in the License Identification, or
+(b) if there is no such License Identification, or no country or jurisdiction is
+ specified in the License Identification, means the country in which Licensee ac
+quires a license to the Autodesk Materials.  If the License Identification speci
+fies, or Licensee acquires the Autodesk Materials in, a member country of the Eu
+ropean Union or the European Free Trade Association, Territory means all the cou
+ntries of the European Union and the European Free Trade Association.
+38.	�Unins
+tall� means to remove or disable a copy of Autodesk Materials from a hard drive
+or other storage medium through any means or otherwise to destroy or make unusab
+le a copy of the Autodesk Materials.
+39.	�Upgrade� means a full commercial versi
+on of Licensed Materials (a) which is a successor to or substitute for a qualify
+ing prior release (and may incorporate error corrections, patches, service packs
+ and updates and upgrades to, and may enhance or add to the features or function
+ality of, the prior release) or different release of Licensed Materials, (b) is
+provided to a Licensee who has previously licensed the applicable qualifying pri
+or or different release from Autodesk and (c) for which Autodesk generally charg
+es a separate fee or makes available solely to customers under a Relationship Pr
+ogram.  Whether Autodesk Materials are an Upgrade may be specified in the applic
+able License Identification.  Whether Autodesk Materials are an Upgrade and whet
+her Licensee has met the qualifications to license particular Autodesk Materials
+ as an Upgrade are determined by Autodesk.
+40.	�User Documentation� means the ex
+planatory or instructional materials for Software or Supplemental Materials (inc
+luding materials regarding use of the Software or Supplemental Materials), wheth
+er in printed or electronic form, that Autodesk or a Reseller incorporates in th
+e Software or Supplemental Materials (or the packaging for the Software or Suppl
+emental Materials) or otherwise provides to its customers when or after such cus
+tomers license, acquire or Install the Software or Supplemental Materials.
+41.	�
+VPN Requirements� means (i) the Licensed Materials are Accessed through a secure
+ virtual private network (�VPN�); (ii) the maximum number of concurrent users Ac
+cessing the Licensed Materials (on a Networked Basis or through the VPN) does no
+t exceed the Permitted Number at any time; (iii) all copies of the Licensed Mate
+rials are Installed and Accessed exclusively in conjunction with the technical p
+rotection device (if any) supplied with the Licensed Materials; and (iv) the VPN
+ connection is secure and complies with current industry standard encryption and
+ protection mechanisms.
+
+
+Exhibit B
+License Types
+1.	Stand-alone (Individual) Li
+cense.  If the License Identification identifies the License Type as a �Stand-al
+one License� or as an �Individual License," Licensee may Install a single primar
+y copy of the specific release of the Licensed Materials designated in the appli
+cable License Identification on one (1) Computer, on a Stand-alone Basis, and pe
+rmit Access to such primary copy of the Licensed Materials solely by Licensee�s
+Personnel, and solely for Licensee�s Internal Business Needs.  Licensee may also
+ Install a single additional copy of such Licensed Materials on one (1) addition
+al Computer, on a Stand-alone Basis; provided that (i) such additional copy of t
+he Licensed Materials is Accessed solely by the same person as the primary copy;
+ (ii) such person is Licensee (if Licensee is an individual) or an employee of L
+icensee; (iii) such person Accesses the additional copy solely to perform work w
+hile away from that person�s usual work location and solely for Licensee�s Inter
+nal Business Needs; and (iv) the primary and additional copies are not Accessed
+at the same time.  Stand-alone (Individual) License is for a perpetual term, exc
+ept as otherwise provided in this Agreement.
+2.	Multi-seat Stand-alone License.
+ If the License Identification identifies the License Type as a �Multi-seat Stan
+d-alone License," Licensee may Install primary copies of the specific release of
+ the Licensed Materials designated in the applicable License Identification on u
+p to the Permitted Number of Computers, on a Stand-alone Basis, and permit Acces
+s to such copies of the Licensed Materials solely by Licensee�s Personnel, and s
+olely for Licensee�s Internal Business Needs.  Licensee may also Install additio
+nal copies of such Licensed Materials on additional Computers in an amount up to
+ the Permitted Number of Computers, on a Stand-alone Basis; provided that (i) ea
+ch additional copy of such Licensed Materials is Accessed solely by the same per
+son as the primary copy; (ii) such person is Licensee (if Licensee is an individ
+ual) or an employee of Licensee; (iii) such person Accesses the additional copy
+solely to perform work while away from that person�s usual work location and sol
+ely for Licensee�s Internal Business Needs; and (iv) the primary and additional
+copies are not Accessed at the same time.  Multi-seat Stand-alone License is for
+ a perpetual term, except as otherwise provided in this Agreement.
+3.	Network Li
+cense.  If the License Identification identifies the License Type for the Licens
+ed Materials as a �Network License," Licensee may Install copies of the specific
+ release of the Licensed Materials designated in the applicable License Identifi
+cation on a Computer and permit Access to such Licensed Materials on multiple Co
+mputers, on a Networked Basis, solely by Licensee�s Personnel, solely for Licens
+ee�s Internal Business Needs, only so long as the maximum number of concurrent A
+uthorized Users does not exceed the Permitted Number of Authorized Users or othe
+r limits imposed by the Autodesk License Manager (if any).  Licensee may, at Lic
+ensee�s option, also Install the Licensed Materials on a Hot Backup Server; prov
+ided that Licensee may Access the Licensed Materials on the Hot Backup Server on
+ly during the time period when, and solely for as long as, the primary Installed
+ copy of the Licensed Materials is inoperable and only subject to the same terms
+ and conditions as are applicable to the primary Installed copy.  A �Hot Backup
+Server� means a file server Computer that has a second copy of the Software and
+Supplemental Materials Installed but that is not permitted to be Accessible exce
+pt when the primary Installed copy of the Software and Supplemental Materials ar
+e inoperable and only for so long as such primary Installed copy is inoperable.
+ A Network License is for a perpetual term, except as otherwise provided in this
+ Agreement.
+4.	Educational Stand-alone (Individual) License.� If the License Ide
+ntification identifies the License Type as an �Educational Stand-alone (Individu
+al) License,� an Educational Licensee may Install a copy of the specific release
+ of the Licensed Materials designated in the applicable License Identification o
+n one (1) Computer, subject to certain functional limitations described in Secti
+on 6.3 (Affected Data), on a Stand-alone Basis, and permit Access to such copy o
+f the Licensed Materials solely by an Educational Licensee solely for Educationa
+l Purposes.� An Educational Stand-alone (Individual) License is for a fixed term
+ specified in the applicable License Identification or, if no such term is speci
+fied, the term is thirty-six (36) months from Installation or as otherwise autho
+rized in writing by Autodesk.
+5.	Educational Multi-seat Stand-alone License.  If
+ the License Identification identifies the License Type as an �Educational Multi
+-seat Stand-alone License,� an Educational Licensee may Install copies of the sp
+ecific release of the Licensed Materials designated in the applicable License Id
+entification on up to the Permitted Number of Computers, subject to certain func
+tional limitations described in Section 6.3 (Affected Data), on a Stand-alone Ba
+sis, and permit Access to such copies of the Licensed Materials solely by Educat
+ional Licensees solely for Educational Purposes.  An Educational Multi-seat Stan
+d-alone License is for a fixed term specified in the applicable License Identifi
+cation or, if no such term is specified, the term is thirty-six (36) months from
+ Installation or as otherwise authorized in writing by Autodesk.
+6.	Educational
+Network License.  If the License Identification identifies the License Type as a
+n �Educational Network License,� an Educational Licensee may Install copies of t
+he specific release of the Licensed Materials designated in the applicable Licen
+se Identification on a single file server Computer, subject to certain functiona
+l limitations described in Section 6.3 (Affected Data), and Access such Licensed
+ Materials on multiple Computers on a Networked Basis, and permit Access to such
+ copies of the Licensed Materials solely by Educational Licensees solely for Edu
+cational Purposes, only so long as the maximum number of concurrent Authorized U
+sers does not exceed the Permitted Number of Authorized Users.  An Educational N
+etwork License is for a fixed term specified in the applicable License Identific
+ation or, if no such term is specified, the term is thirty-six (36) months from
+Installation or as otherwise authorized in writing by Autodesk.
+7.	Personal Lear
+ning License.  If the License Identification identifies the License Type as a �P
+ersonal Learning License�, Licensee may Install a copy of the specific release o
+f the Licensed Materials designated in the applicable License Identification on
+one (1) Computer, subject to certain functional limitations described in Section
+ 6.3 (Affected Data), on a Stand-alone Basis, and permit Access to such copy of
+the Licensed Materials solely by Licensee, as an individual, solely for Personal
+ Learning Purposes and only at and from locations that are not labs or classroom
+s and are not operated for commercial, professional or for-profit purposes.  A P
+ersonal Learning License Stand-alone is for a fixed term specified in the applic
+able License Identification.  If no such term is specified, the term is thirteen
+ (13) months from Installation.
+8.	Evaluation/Demonstration/Trial.  If Autodesk
+identifies the License Type as a �demonstration�, �evaluation�, �trial,� �not fo
+r resale� or �NFR� version (each, an �Evaluation License�) in the applicable Lic
+ense Identification, Licensee may Install a copy of the specific release of the
+Licensed Materials designated in the applicable License Identification on one (1
+) Computer, subject to certain functional limitations described in Section 6.3 (
+Affected Data), on a Stand-alone Basis, and permit Access to such copy of the Li
+censed Materials, solely by Licensee�s Personnel, solely for Evaluation Purposes
+, only so long as the maximum number of concurrent Authorized Users does not exc
+eed one (1), and only from Licensee�s work location.  An Evaluation License is f
+or a fixed term specified in the applicable License Identification, or if no suc
+h term is specified, the term is thirty (30) days from Installation or as otherw
+ise authorized in writing by Autodesk.
+9.	Fixed Term/Limited Duration/Rental Lic
+ense.  If Autodesk identifies a license in the applicable License Identification
+ as being for a specified period or limited duration or as having a fixed term o
+r as a rental license, Licensee�s right to Install and Access the Licensed Mater
+ials will continue only for the period, duration or term specified in the Licens
+e Identification.  Such Installation and Access will be in accordance with and s
+ubject to the applicable License Type and Permitted Number.  If Autodesk identif
+ies a license in the applicable License Identification as being for a specified
+period or limited duration, or as having a fixed term, or a rental license but n
+o period, duration or term is specified in the License Identification, the perio
+d, duration or term will be ninety (90) days from Installation (or the period sp
+ecified in Sections B.6 (Educational Network License), B.7 (Personal Learning Li
+cense) or B.8 (Evaluation/Demonstration/Trial) of this Exhibit B with respect to
+ the licenses described in those sections).
+10.	Session Specific Network License
+.  If the License Identification identifies the License Type as a "Session Speci
+fic Network License", Licensee may install one (1) copy of the specific release
+of the Licensed Materials designated in the applicable License Identification on
+ a Computer and permit Access to such Licensed Materials from multiple Computers
+ through a Supported Virtualization Application, on a Networked Basis, solely by
+ Licensee's Personnel, solely for Licensee's Internal Business needs, only so lo
+ng as the maximum number of concurrent Sessions does not exceed the Permitted Nu
+mber or other limits imposed by the Autodesk License Manager tool (if any).  For
+ purposes of this Session Specific Network License, (a) a �Session� is defined a
+s a single interactive information exchange between two Computers that are conne
+cted through a Supported Virtualization Application, and (b) �Supported Virtuali
+zation Application(s)� are those third party virtualization applications or meth
+ods that are specifically identified as supported by Autodesk in the User Docume
+ntation for the Licensed Materials.  With respect to the applicable Supported Vi
+rtualization Application, Licensee agrees to activate any available session trac
+king mechanism, not disable any such session tracking mechanism and to retain al
+l records generated by such session tracking mechanism.  A Session Specific Netw
+ork License is for a perpetual term, except as otherwise provided in this Agreem
+ent.
